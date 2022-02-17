@@ -1,0 +1,9 @@
+{"data":[
+    {"ID":1, "Name":"suresh", "Age":"28", "Station": "Chennai", "Phone": 9234776512, "Salary": 18000},
+    {"ID":2, "Name":"ramesh", "Age":"37",  "Station": "Bengaluru", "Phone": 9877530087, "Salary": 8000},
+    {"ID":3, "Name":"dinesh", "Age":"31", "Station": "Mumbai", "Phone": 9722465589, "Salary": 15000},
+    {"ID":4, "Name":"yogesh", "Age":"38",  "Station": "Kolkata", "Phone": 9145667822, "Salary": 2000},
+    {"ID":5, "Name":"nithya", "Age":"26",  "Station": "Delhi", "Phone": 9066775422, "Salary": 7500},
+    {"ID":6, "Name":"Shivani", "Age":"48",  "Station": "Manglore", "Phone": 9122345555, "Salary": 9000},
+    {"ID":7, "Name":"nithish", "Age":"45",  "Station": "Nagpur", "Phone": 9847334322, "Salary": 8700}  
+]}
